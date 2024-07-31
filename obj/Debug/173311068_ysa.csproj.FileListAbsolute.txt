@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\bin\Debug\173311068_ysa.exe.config
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\bin\Debug\173311068_ysa.exe
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\bin\Debug\173311068_ysa.pdb
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\obj\Debug\173311068_ysa.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\obj\Debug\_173311068_ysa.Form1.resources
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\obj\Debug\_173311068_ysa.Properties.Resources.resources
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\obj\Debug\173311068_ysa.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\obj\Debug\173311068_ysa.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\obj\Debug\173311068_ysa.exe
+C:\Users\Pc\Desktop\Yapay-Sinir-Aglari-Artificial-Neural-Networks-master\173311068_ysa\obj\Debug\173311068_ysa.pdb
